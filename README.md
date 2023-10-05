@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Self-Taught Developer, Economics Junkie
 ---------------------------------------
 
-I studied Economics in school. I am now a self-taught Python developer mainly focusing on Data analysis. I have done some work on my own with Tensorflow and machine learning projects. I am currently looking for a job in the Fintech industry where I can work on Data collection, analysis, and trading bots.
+I hold a degree in Economics and have honed my Python skills to excel in data analysis. I'm a self-taught enthusiast with hands-on experience in Tensorflow and machine learning projects. I am actively seeking opportunities within the Fintech industry, particularly in roles related to financial market trading, where I can leverage my Python skills for data analysis.
 
 * 🌍  I'm based in Seoul, South Korea
 * ✉️  You can contact me at [andrea-kim@hotmail.co.kr](mailto:andrea-kim@hotmail.co.kr)
